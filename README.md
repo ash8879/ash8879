@@ -1,8 +1,6 @@
 ### Hi Ashish here 👋
 
 
-**ash8879/ash8879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### I am a Data analyst student
 
 - 🔭 I’m currently working on data science projects
