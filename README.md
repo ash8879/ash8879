@@ -1,7 +1,7 @@
 ### Hi Ashish here 👋
 
 
-### I am a Data analyst student
+### I am a Data analyst and Web Developer Student.
 
 - 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning data science and data analytics projects
