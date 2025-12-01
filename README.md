@@ -1,11 +1,11 @@
 ### Hi Ashish here 👋
 
 
-### I am a Data analyst and Web Developer Student.
+### I am working as Salesforce Admin.
 
-- 🔭 I’m currently working on data science projects
-- 🌱 I’m currently learning data science and data analytics projects
-- 👯 I’m looking to collaborate on projects on data science and data analytics
+- 🔭 I’m currently working on salesforce projects
+- 🌱 I’m currently learning Salesforce materials certification and projects
+- 👯 I’m looking to collaborate on projects on salesforce
 - 📫 How to reach me: gmail - ashishp8879@gmail.com
 
 ## Connect with me:
